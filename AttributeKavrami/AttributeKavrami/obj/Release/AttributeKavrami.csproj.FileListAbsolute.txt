@@ -1,0 +1,7 @@
+C:\Users\burak\source\repos\AttributeKavrami\AttributeKavrami\bin\Release\AttributeKavrami.exe.config
+C:\Users\burak\source\repos\AttributeKavrami\AttributeKavrami\bin\Release\AttributeKavrami.exe
+C:\Users\burak\source\repos\AttributeKavrami\AttributeKavrami\bin\Release\AttributeKavrami.pdb
+C:\Users\burak\source\repos\AttributeKavrami\AttributeKavrami\obj\Release\AttributeKavrami.csproj.AssemblyReference.cache
+C:\Users\burak\source\repos\AttributeKavrami\AttributeKavrami\obj\Release\AttributeKavrami.csproj.CoreCompileInputs.cache
+C:\Users\burak\source\repos\AttributeKavrami\AttributeKavrami\obj\Release\AttributeKavrami.exe
+C:\Users\burak\source\repos\AttributeKavrami\AttributeKavrami\obj\Release\AttributeKavrami.pdb
